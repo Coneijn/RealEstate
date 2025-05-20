@@ -1,0 +1,19 @@
+[19-May-2025 21:21:51 America/Mexico_City] PHP Warning:  Undefined variable $baseQuery in /home3/alexisa4/public_html/RealEstate/models/Property.php on line 262
+[19-May-2025 21:29:42 America/Mexico_City] PHP Parse error:  syntax error, unexpected token "{" in /home3/alexisa4/public_html/RealEstate/api/properties.php on line 31
+[19-May-2025 21:31:59 America/Mexico_City] PHP Parse error:  syntax error, unexpected token "{" in /home3/alexisa4/public_html/RealEstate/api/properties.php on line 31
+[19-May-2025 21:32:00 America/Mexico_City] PHP Parse error:  syntax error, unexpected token "{" in /home3/alexisa4/public_html/RealEstate/api/properties.php on line 31
+[19-May-2025 21:39:20 America/Mexico_City] PHP Parse error:  syntax error, unexpected token "{" in /home3/alexisa4/public_html/RealEstate/api/properties.php on line 31
+[19-May-2025 21:39:24 America/Mexico_City] PHP Parse error:  syntax error, unexpected token "{" in /home3/alexisa4/public_html/RealEstate/api/properties.php on line 31
+[19-May-2025 21:39:25 America/Mexico_City] PHP Parse error:  syntax error, unexpected token "{" in /home3/alexisa4/public_html/RealEstate/api/properties.php on line 31
+[19-May-2025 21:39:26 America/Mexico_City] PHP Parse error:  syntax error, unexpected token "{" in /home3/alexisa4/public_html/RealEstate/api/properties.php on line 31
+[19-May-2025 21:45:36 America/Mexico_City] PHP Warning:  Undefined variable $baseQuery in /home3/alexisa4/public_html/RealEstate/models/Property.php on line 262
+[19-May-2025 21:45:36 America/Mexico_City] API Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY p.created_at DESC' at line 1
+[19-May-2025 21:45:38 America/Mexico_City] PHP Warning:  Undefined variable $baseQuery in /home3/alexisa4/public_html/RealEstate/models/Property.php on line 262
+[19-May-2025 21:45:38 America/Mexico_City] API Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY p.created_at DESC' at line 1
+[20-May-2025 11:49:38 America/Mexico_City] PHP Warning:  Undefined variable $baseQuery in /home3/alexisa4/public_html/RealEstate/models/Property.php on line 262
+[20-May-2025 11:49:38 America/Mexico_City] API Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY p.created_at DESC' at line 1
+[20-May-2025 12:38:25 America/Mexico_City] PHP Warning:  Undefined variable $baseQuery in /home3/alexisa4/public_html/RealEstate/models/Property.php on line 262
+[20-May-2025 12:38:25 America/Mexico_City] API Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY p.created_at DESC' at line 1
+[20-May-2025 12:38:31 America/Mexico_City] PHP Warning:  Undefined variable $baseQuery in /home3/alexisa4/public_html/RealEstate/models/Property.php on line 262
+[20-May-2025 12:38:31 America/Mexico_City] API Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY p.created_at DESC' at line 1
+[20-May-2025 13:27:15 America/Mexico_City] PHP Warning:  Undefined array key "lat" in /home3/alexisa4/public_html/RealEstate/api/properties.php on line 18
